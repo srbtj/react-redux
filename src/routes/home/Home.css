@@ -1,0 +1,8 @@
+
+# post-css 要是不会写去看 webpack.config.js 141 行开始，每一个 postcss 插件的使用方式
+.root{
+  padding: 8px;
+  .header{
+    margin: 5px;
+  }
+}
